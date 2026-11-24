@@ -4,15 +4,9 @@
  */
 package printaccount;
 
-/**
- *
- * @author QUINONES_CPE113
- */
 public class Printaccount {
 
-    /**
-     * @param args the command line arguments
-     */
+  
     public static void main(String[] args) {
     main mia;
         mia = new main("Mia", 10);
